@@ -1,4 +1,4 @@
 # ESP_32
 Vários códigos:
-- envio de e-mail
+- Envio de E-Mail
 - GET/POST pageWeb
